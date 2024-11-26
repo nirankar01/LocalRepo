@@ -1,0 +1,32 @@
+*{
+  /* text-align: center; */
+}
+body{
+  /* text-align: center; */
+  margin: 10px;
+  padding: 10px;
+  background-color: black;
+}
+.home-div{
+  width: 400px;
+  background-color: rgb(109, 97, 97);
+  height: 400px;
+  text-align: center;
+}
+.input-field{
+background-color: rgb(92, 218, 174);
+/* height: 200px; */
+width: 280px;
+border-radius: 5px;
+}
+.create-btn{
+  background-color: rgb(224, 65, 25);
+  border-radius: 10px;
+}
+.text-area{
+  width: 380px;
+  margin-top: 20px;
+  height: 100px;
+  border-radius: 12px;
+  background-color: rgb(207, 178, 185);
+}
